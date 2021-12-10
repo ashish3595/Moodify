@@ -9,8 +9,10 @@ Based on the songs the user listens to and their personal information, identify 
 
 File Descriptions:
 1. getUserPlayList.py -  script that builds feature vectors for songs using several characteristic and audio features.
-2. RuleBasedApproach - computes initial clusters for training data based on 2-level K-Means clustering.
-3. data - folder that contains the data used for the project
-
+2. RuleBasedRecommendation.ipynb - computes initial clusters for training data based on 2-level K-Means clustering.
+3. data - folder that contains the data used for the project (both zip and csv)
+4. Data_preparation.ipynb - gets songs dataset asinput and handles initial spotify API calls to extract song audio and general features and performs data cleaning.
+5. Lyrics_extraction_geniusapi.ipynb - extracts lyrics for Spotify song dataset using Genius API
+6. NLP_embeddings_approach.ipynb - generates recommendations using LightFM approach using word embeddings
 
 
