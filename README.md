@@ -14,5 +14,6 @@ File Descriptions:
 4. Data_preparation.ipynb - gets songs dataset asinput and handles initial spotify API calls to extract song audio and general features and performs data cleaning.
 5. Lyrics_extraction_geniusapi.ipynb - extracts lyrics for Spotify song dataset using Genius API
 6. NLP_embeddings_approach.ipynb - generates recommendations using LightFM approach using word embeddings
+7. ProjectPoster.pdf - A poster highlighting the project process and development.
 
 
